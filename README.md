@@ -1,4 +1,4 @@
-# gosstat
+# Frontend city-stat
 
 > Frontend приложения для визуализации данных государственной статисткики [city-stat](https://github.com/Chrtyaka/city_stat)
 
