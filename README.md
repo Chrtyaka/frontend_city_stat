@@ -1,6 +1,6 @@
 # gosstat
 
-> Сервис для визуализации данных госстатистки
+> Frontend приложения для визуализации данных государственной статисткики [city-stat](https://github.com/Chrtyaka/city_stat)
 
 ## Build Setup
 
